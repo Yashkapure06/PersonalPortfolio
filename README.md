@@ -1,2 +1,3 @@
-# PersonalPortfolio
-This is my Personal Portfolio made with React framework --> NextJs, CSS, Material UI, ReactJS, JS
+## Personal Portfolio
+
+![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
